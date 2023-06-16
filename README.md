@@ -1,6 +1,7 @@
 # RTL-theme-editor!
 
-[Capture](https://github.com/keny10/RTL-theme-editor/assets/880169/b9b9fbb5-0044-4aa2-9338-eab5a7f2f9e8)
+![Capture](https://github.com/keny10/RTL-theme-editor/assets/880169/b9b9fbb5-0044-4aa2-9338-eab5a7f2f9e8)
+
 
 Very basic app to quickly edit variable for Racing League Tool themes
 Use this to edit global_vars.json and public_vars.json files
